@@ -1,0 +1,2 @@
+# insertingsort
+inserting sort ödevi
